@@ -1,0 +1,679 @@
+{
+  "dates": [
+    "2025-09-29"
+  ],
+  "sectors": [
+    {
+      "sectorName": "Conglomerates - Conglomerates",
+      "marketCap": [
+        715351900000
+      ],
+      "value": [
+        833179810
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.5855787118523965
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        22
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Automobiles",
+      "marketCap": [
+        1968907920000
+      ],
+      "value": [
+        10873428190
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.6307095129467087
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        44
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Household Goods & Electronics",
+      "marketCap": [
+        950826820000
+      ],
+      "value": [
+        5620209459.52
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.027179543853623367
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        88
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Media & Entertainment",
+      "marketCap": [
+        1488213174400
+      ],
+      "value": [
+        9209063642
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.146544782151901
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        115
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Specialty Retail",
+      "marketCap": [
+        4784451310000
+      ],
+      "value": [
+        32427866084
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        3.5326900676429407
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        78
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Support Services",
+      "marketCap": [
+        281086460000
+      ],
+      "value": [
+        892348375
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.930673865813523
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        88
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Textiles & Clothing",
+      "marketCap": [
+        874847170000
+      ],
+      "value": [
+        2786610560
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.16413377990856
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        115
+      ]
+    },
+    {
+      "sectorName": "Consumer Discretionary - Travel & Leisure",
+      "marketCap": [
+        1832978400000
+      ],
+      "value": [
+        5010402023.21
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.3320527206027637
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        130
+      ]
+    },
+    {
+      "sectorName": "Consumer Staples - Agricultural Products",
+      "marketCap": [
+        42178000000
+      ],
+      "value": [
+        90399270
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.6920674710312037
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        21
+      ]
+    },
+    {
+      "sectorName": "Consumer Staples - Consumer Staple Retailers",
+      "marketCap": [
+        78411070000
+      ],
+      "value": [
+        111375850
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.9464339528456958
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        22
+      ]
+    },
+    {
+      "sectorName": "Consumer Staples - Food & Beverages",
+      "marketCap": [
+        1321511690000
+      ],
+      "value": [
+        3002836120
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.0041838256164186
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        90
+      ]
+    },
+    {
+      "sectorName": "Energy - Coal",
+      "marketCap": [
+        293820920000
+      ],
+      "value": [
+        1097918025.25
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.49320440805022
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        22
+      ]
+    },
+    {
+      "sectorName": "Energy - Oil & Gas",
+      "marketCap": [
+        1267896150000
+      ],
+      "value": [
+        2853787240
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.1251776796406072
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        46
+      ]
+    },
+    {
+      "sectorName": "Financials - Banks",
+      "marketCap": [
+        6537128970000
+      ],
+      "value": [
+        10883303310
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.2308160125030936
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        40
+      ]
+    },
+    {
+      "sectorName": "Financials - Insurance",
+      "marketCap": [
+        2542804450000
+      ],
+      "value": [
+        11189862430
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.738395842647059
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        19
+      ]
+    },
+    {
+      "sectorName": "Financials - Other Financials",
+      "marketCap": [
+        1371984680000
+      ],
+      "value": [
+        15095954794
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        4.292890315560839
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        146
+      ]
+    },
+    {
+      "sectorName": "Healthcare - Other Healthcare",
+      "marketCap": [
+        538091220000
+      ],
+      "value": [
+        2819072320
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.013360838482684
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        125
+      ]
+    },
+    {
+      "sectorName": "Healthcare - Pharmaceuticals & Biotechnology",
+      "marketCap": [
+        2914553030000
+      ],
+      "value": [
+        17892622284.5
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.9153880914822687
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        153
+      ]
+    },
+    {
+      "sectorName": "Industrials - Commercial & Professional Services",
+      "marketCap": [
+        108693430000
+      ],
+      "value": [
+        180464783.12
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.1245090261894857
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        48
+      ]
+    },
+    {
+      "sectorName": "Industrials - Industrial Engineering",
+      "marketCap": [
+        1224008690000
+      ],
+      "value": [
+        12273616930
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.3269450824431357
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        207
+      ]
+    },
+    {
+      "sectorName": "Industrials - Industrial Transportation",
+      "marketCap": [
+        716865450000
+      ],
+      "value": [
+        2253122390
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.7322137994218416
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        68
+      ]
+    },
+    {
+      "sectorName": "Information Technology - IT Hardware",
+      "marketCap": [
+        1845695760000
+      ],
+      "value": [
+        22537996790
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        -1.5751404057210692
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        59
+      ]
+    },
+    {
+      "sectorName": "Information Technology - Semiconductors",
+      "marketCap": [
+        848988420000
+      ],
+      "value": [
+        12888415400
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        4.643782802413727
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        24
+      ]
+    },
+    {
+      "sectorName": "Information Technology - Software & Services",
+      "marketCap": [
+        7806474350000
+      ],
+      "value": [
+        29209891995
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.2720231138901394
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        144
+      ]
+    },
+    {
+      "sectorName": "Materials - Basic Materials",
+      "marketCap": [
+        146339050000
+      ],
+      "value": [
+        559624250
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.8400108073922095
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        54
+      ]
+    },
+    {
+      "sectorName": "Materials - Diversified Metals & Minerals",
+      "marketCap": [
+        841487790000
+      ],
+      "value": [
+        7528881440
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        2.9154700160421028
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        65
+      ]
+    },
+    {
+      "sectorName": "Materials - Gold & Precious Metals",
+      "marketCap": [
+        413226570000
+      ],
+      "value": [
+        5294954490
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        4.874536225891203
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        16
+      ]
+    },
+    {
+      "sectorName": "Miscellaneous",
+      "marketCap": [
+        0
+      ],
+      "value": [
+        0
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        0
+      ]
+    },
+    {
+      "sectorName": "Properties & Construction - Construction",
+      "marketCap": [
+        344695870000
+      ],
+      "value": [
+        1227317838
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.9505543565626338
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        219
+      ]
+    },
+    {
+      "sectorName": "Properties & Construction - Properties",
+      "marketCap": [
+        2406920350000
+      ],
+      "value": [
+        4670158332
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        1.6968665915547936
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        277
+      ]
+    },
+    {
+      "sectorName": "Telecommunications - Telecommunications",
+      "marketCap": [
+        2404540240000
+      ],
+      "value": [
+        3491560420
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        -0.09708071036510078
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        18
+      ]
+    },
+    {
+      "sectorName": "Utilities - Utilities",
+      "marketCap": [
+        1301186130000
+      ],
+      "value": [
+        3979542070
+      ],
+      "volume": [
+        0
+      ],
+      "priceChangePct": [
+        0.34669604166827034
+      ],
+      "tradesNumber": [
+        0
+      ],
+      "itemsNumber": [
+        77
+      ]
+    }
+  ]
+}
